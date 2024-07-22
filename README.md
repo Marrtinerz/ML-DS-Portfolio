@@ -34,8 +34,8 @@ In this project, I employ supervised classification models to predict rainfall i
 
 ## Micro Projects
 - ### Data Collection & Vizualization
-    - [Stock Data Extraction and Visualization Using REST APIs and Webscraping](https://github.com/Marrtinerz/Python_Projects/tree/master/Stock_Data_Analysis): This Python program simulates a car dealership's inventory management system. The system aims to model cars and their attributes accurately.
-    - [Car Dealership's Inventory Management System](https://github.com/Marrtinerz/Python_Projects/tree/master/ManagementSystem): In this file, I explored how bayesian statistics works and how prior assumption reflects posterior probabilities using Gun control example. 
+    - [Stock Data Extraction and Visualization Using REST APIs and Webscraping](https://github.com/Marrtinerz/Python_Projects/tree/master/Stock_Data_Analysis): In this project, I extract and vizualize stock data with the `yfinance` API and Web scraping.
+    - [Car Dealership's Inventory Management System](https://github.com/Marrtinerz/Python_Projects/tree/master/ManagementSystem): This Python program simulates a car dealership's inventory management system. The system aims to model cars and their attributes accurately. 
     - [Chicago Dataset SQL Querying](https://github.com/Marrtinerz/SQL-Projects/tree/master/Chicago_Dataset_Sql_Querying): In this file, I attempt to comprehensively understand three Chicago datasets using SQL queries and %sql magic.
     
 ## Core Competencies
