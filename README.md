@@ -1,6 +1,6 @@
 # Data Science Portfolio - Martins Nnamchi
 
-__Hello World!__
+__Hi there!__
 
 Welcome to my DS/ML portfolio. Here, you'll find a curated, constantly improved selection of my projects, highlighting my expertise/growth in data analysis, machine learning, statistical modeling, and computer programming. Through these projects, I demonstrate my ability to transform raw data into meaningful insights and actionable strategies. Whether it’s through predictive modeling, data visualization, or natural language processing.
 
