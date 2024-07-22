@@ -14,11 +14,13 @@ Welcome to my DS/ML portfolio. Here, you'll find a curated, constantly improved 
  
 In this project, I predict if the Falcon 9 first stage will land successfully. The predictions will help determine launch costs and aid operational planning. I implement Dash/Plotly Interactive Dashboards, REST APIs, Web scraping, SQL queries, Data Wrangling/Preprocessing, EDA, and ML pipeline development. [Full PDF Report](https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/spacex-launch-analysis_and_predictions_report.pdf)
 
+<br />
 
 <img align="left" width="250" height="150" src="https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/Credit-Card%20Fraud%20Detection%20with%20ML%20models/Credit-card%20detection.png?raw=true"> **[Credit Card Fraud Detection](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Credit-Card%20Fraud%20Detection%20with%20ML%20models)**
 
 In this project, I built models that predict if a financial transaction is fraudulent or not. I model the task as a binary classification problem. I implement SVM and DT models and model the classification task using both Scikit-Learn and Snap ML. [Linkedin Report Article](https://www.linkedin.com/pulse/project-1-detecting-credit-card-fraud-using-vs-snap-ml-nnamchi-zehdf/?trackingId=0rknk9rsSlGFKhTbRnQMzA%3D%3D)
 
+<br />
 
 <img align="left" width="150" height="150" src="https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/Rain%20Prediction%20in%20Australia/Rain%20Prediction.png?raw=true"> **[Rainfall Prediction in Australia](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Rain%20Prediction%20in%20Australia)**
 
@@ -52,7 +54,7 @@ In this project, I employ supervised classification models to predict rainfall i
     - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/8AMQV9Y9DTLV)
     - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/EE3KVACN3LJ8)    
 
-- [Foundations of Data Structures and Algorithms Specialization | University of Colorado Boulder](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
+- [Foundations of Data Structures and Algorithms Specialization, University of Colorado Boulder](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
     - [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
     - Trees and Graphs (ongoing)
     - Dynamic Programming, Greedy Algorithms
