@@ -45,7 +45,7 @@ In this project, I employ supervised classification models to predict rainfall i
 
 ## Certificates
 
-- [IBM Data Science Specialization](https://www.coursera.org/account/accomplishments/specialization/D79WT5EMNBMG)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/D79WT5EMNBMG)
     - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/FZZUSU9TQNXR)
     - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/4JD6ZE8LTBHM)
     - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/BL3PX532MV9N)
