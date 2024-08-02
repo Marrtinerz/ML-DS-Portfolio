@@ -1,8 +1,8 @@
 # Data Science Portfolio - Martins Nnamchi
 
-__Hi there!__
+__Hello there!__
 
-Welcome to my DS/ML portfolio. Here, you'll find a curated, constantly improved selection of my projects, highlighting my expertise/growth in data analysis, machine learning, statistical modeling, and computer programming. Through these projects, I demonstrate my ability to transform raw data into meaningful insights and actionable strategies. Whether it’s through predictive modeling, data visualization, or natural language processing.
+Welcome to my data science playground! I'm a data enthusiast with a knack for turning numbers into stories and patterns into insights. With a flair for machine learning and a love for all things data, I'm here to explore, innovate, and, most importantly, have fun with data! Dive in to see how I blend analytical rigor with a dash of creativity to solve real-world problems!
 
 - **Email**: [mnnamchi@gmail.com](mnnamchi@gmail.com)
 - **LinkedIn**: [linkedin.com/mnnamchi](https://www.linkedin.com/in/mnnamchi/)
@@ -21,7 +21,7 @@ In this project, I predict if the Falcon 9 first stage will land successfully. T
 
 <img align="left" width="250" height="150" src="https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/Credit-Card%20Fraud%20Detection%20with%20ML%20models/Credit-card%20detection.png?raw=true"> **[Credit Card Fraud Detection](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Credit-Card%20Fraud%20Detection%20with%20ML%20models)**
 
-In this project, I built models that predict if a financial transaction is fraudulent or not. I model the task as a binary classification problem. I implement SVM and DT models and model the classification task using both Scikit-Learn and Snap ML. [Linkedin Report Article](https://www.linkedin.com/pulse/project-1-detecting-credit-card-fraud-using-vs-snap-ml-nnamchi-zehdf/?trackingId=0rknk9rsSlGFKhTbRnQMzA%3D%3D)
+In this project, I built models that predict if a financial transaction is fraudulent or not, aiming to enhance credit card security. I model the task as a binary classification problem and implement SVM and DT models using both Scikit-Learn and Snap ML. [Linkedin Report Article](https://www.linkedin.com/pulse/project-1-detecting-credit-card-fraud-using-vs-snap-ml-nnamchi-zehdf/?trackingId=0rknk9rsSlGFKhTbRnQMzA%3D%3D)
 
 <br />
 
@@ -45,7 +45,8 @@ In this project, I employ supervised classification models to predict rainfall i
 
 ## Certificates
 
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/D79WT5EMNBMG)
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/D79WT5EMNBMG)
+    - [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/certificate/3RJ5TEHU97F9)
     - [Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/FZZUSU9TQNXR)
     - [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/certificate/4JD6ZE8LTBHM)
     - [Python for Data Science, AI & Development](https://www.coursera.org/account/accomplishments/certificate/BL3PX532MV9N)
@@ -55,7 +56,8 @@ In this project, I employ supervised classification models to predict rainfall i
     - [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/9GTAY42GK6B5)
     - [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/8Z34WXKA8KF6)
     - [Python Project for Data Science](https://www.coursera.org/account/accomplishments/certificate/8AMQV9Y9DTLV)
-    - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/EE3KVACN3LJ8)    
+    - [What is Data Science?](https://www.coursera.org/account/accomplishments/certificate/EE3KVACN3LJ8)
+    - [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/FAHNAT3DCKQJ)  
 
 - [Foundations of Data Structures and Algorithms Specialization, University of Colorado Boulder](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
     - [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
@@ -63,3 +65,14 @@ In this project, I employ supervised classification models to predict rainfall i
     - Dynamic Programming, Greedy Algorithms
     - Approximation Algorithms and Linear Programming
     - Advanced Data Structures, RSA, and Quantum Algorithms
+
+## Informal Learning and Books
+
+- [Foundational and Advanced Math (Brilliant.org)](https://brilliant.org/courses/)
+- [3Blue1brown (Youtube)](https://www.youtube.com/c/3blue1brown)
+- [StatQuest with Josh Starmer (Youtube)](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+- [Simplilearn (Youtube)](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg)
+- [Becoming a Data Head: How to Think, Speak, and Understand Data Science, Statistics, and Machine Learning (Book by Alex J. Gutman and Jordan Goldmeier)](https://www.oreilly.com/library/view/becoming-a-data/9781119741749/)
+- [Getting Started with Data Science: Making Sense of Data with Analytics (IBM Press; book by Murtaza Haider)](https://www.amazon.com/Getting-Started-Data-Science-Analytics/dp/0133991024)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (Book by Aurélien Géron)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+-[Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics (Book by Thomas Nield)](https://www.amazon.com/Essential-Math-Data-Science-Fundamental/dp/1098102932)
