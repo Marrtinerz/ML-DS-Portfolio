@@ -61,8 +61,8 @@ In this project, I employ supervised classification models to predict rainfall i
 
 - [Foundations of Data Structures and Algorithms Specialization, University of Colorado Boulder](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
     - [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/account/accomplishments/verify/3MRK4SV5Y4FL)
-    - Trees and Graphs (ongoing)
-    - Dynamic Programming, Greedy Algorithms
+    - [Trees and Graphs](https://www.coursera.org/account/accomplishments/records/ILZI0FRFQEI0)
+    - Dynamic Programming, Greedy Algorithms (Ongoing)
     - Approximation Algorithms and Linear Programming
     - Advanced Data Structures, RSA, and Quantum Algorithms
 
