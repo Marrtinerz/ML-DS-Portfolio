@@ -4,7 +4,7 @@ import xgboost as xgb
 import pickle
 
 #defining the base directory here
-base = '\app'
+base = 'C:/Users/user/OneDrive/Documents/DATA SCIENCE/Data Science Projects/ML-DS-Portfolio/Predictive Modeling of Renewable Energy Generation Using Time Series and Regression/app'
 reg = xgb.XGBRegressor()
 #loading the pickle file
 model = pickle.load(open(f'{base}/model2.pkl', "rb"))
