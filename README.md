@@ -22,13 +22,11 @@ Welcome to my data science playground! I'm a data enthusiast with a knack for tu
 <img align="left" width="250" height="150" src="Predictive Modeling of Renewable Energy Generation Using Time Series and Regression\Images\Portfolio Thumbnail.png"> **[Predictive Modeling of Wind-Energy Generation with FLASK deployment: Time Series and Regression Analyses](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
  
 In this project, I explored time series and regression for renewable-energy forcasting. I developed XGBOOST-trained ML models to predict the amount of wind energy that can be generated over a period. I deployed the model using FLASK, creating an interactive web app that delivers real-time energy predictions. This project kickstarts my learning in time series analysis and end-to-end model development/deployment.
-
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/Images/Portfolio%20Image.png?raw=true"> **[SpaceX Launch Analysis and Landing Predictions](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions)**
  
 In this project, I predict if the Falcon 9 first stage will land successfully. The predictions will help determine launch costs and aid operational planning. I implement Dash/Plotly Interactive Dashboards, REST APIs, Web scraping, SQL queries, Data Wrangling/Preprocessing, EDA, and ML pipeline development. [Full PDF Report](https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/spacex-launch-analysis_and_predictions_report.pdf)
-
 <br />
 
 <img align="left" width="250" height="150" src="https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/Credit-Card%20Fraud%20Detection%20with%20ML%20models/Credit-card%20detection.png?raw=true"> **[Credit Card Fraud Detection](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Credit-Card%20Fraud%20Detection%20with%20ML%20models)**
