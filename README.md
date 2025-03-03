@@ -12,7 +12,7 @@ Welcome to my data science playground! I'm a data enthusiast with a knack for tu
 
 [Link to All ML-DS Project GitHub Repo](https://github.com/Marrtinerz/ML-DS-Portfolio)
 
-<img align="left" width="250" height="150" src="https://github.com/Marrtinerz/AI-Agents/blob/main/celebrity-identifier/static/img/Linkedin%20Post.png"> **[Accurate Celebrity Identification Using Prompt Engineering and Google Gemini 2.0 LLM API](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
+<img align="left" width="250" height="150" src="https://github.com/Marrtinerz/AI-Agents/blob/main/celebrity-identifier/static/img/Linkedin%20Post.png?raw=true"> **[Accurate Celebrity Identification Using Prompt Engineering and Google Gemini 2.0 LLM API](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
  
  This project demonstrates the application of Large Language Models, specifically Google's Gemini 2.0 Flash, to perform celebrity identification in images using Python. An upload interface is provided using IPyWidgets to test the functionality.
 <br />
