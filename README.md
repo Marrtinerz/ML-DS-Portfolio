@@ -15,15 +15,16 @@ Welcome to my data science playground! I'm a data enthusiast with a knack for tu
 <img align="left" width="250" height="150" src="https://github.com/Marrtinerz/AI-Agents/blob/main/celebrity-identifier/static/img/Linkedin%20Post.png?raw=true"> **[Accurate Celebrity Identification Using Prompt Engineering and Google Gemini 2.0 LLM API](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
  
  This project demonstrates the application of Large Language Models, specifically Google's Gemini 2.0 Flash, to perform celebrity identification in images using Python. An upload interface is provided using IPyWidgets to test the functionality.
-<br />
 
+<br />
 <br />
 
 <img align="left" width="250" height="150" src="Predictive Modeling of Renewable Energy Generation Using Time Series and Regression\Images\Portfolio Thumbnail.png"> **[Predictive Modeling of Wind-Energy Generation with FLASK deployment: Time Series and Regression Analyses](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/Predictive%20Modeling%20of%20Renewable%20Energy%20Generation%20Using%20Time%20Series%20and%20Regression)**
  
 In this project, I explored time series and regression for renewable-energy forcasting. I developed XGBOOST-trained ML models to predict the amount of wind energy that can be generated over a period. I deployed the model using FLASK, creating an interactive web app that delivers real-time energy predictions. This project kickstarts my learning in time series analysis and end-to-end model development/deployment.
-<br />
 
+<br />
+<br />
 
 <img align="left" width="250" height="150" src="https://github.com/Marrtinerz/ML-DS-Portfolio/blob/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions/Report/Images/Portfolio%20Image.png?raw=true"> **[SpaceX Launch Analysis and Landing Predictions](https://github.com/Marrtinerz/ML-DS-Portfolio/tree/main/SpaceX%20Launch%20Analysis%20and%20ML%20Predictions)**
  
